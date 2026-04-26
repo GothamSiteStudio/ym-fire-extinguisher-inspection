@@ -402,7 +402,7 @@ p { margin: 0 0 1em; color: var(--text-dim); }
   letter-spacing: 0.04em;
 }
 .feature h4 { color: var(--cream); }
-.feature p { font-size: 0.93rem; margin: 0; }
+.feature p { font-size: 0.93rem; margin: 0; grid-column: 2; }
 
 .why-card {
   background: linear-gradient(180deg, var(--surface) 0%, var(--surface-2) 100%);
