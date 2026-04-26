@@ -64,7 +64,7 @@
       `${fd.get('message') || ''}`;
 
     const subject = encodeURIComponent(`Inspection request — ${name}`);
-    const mailto = `mailto:info@ymextinguishers.com?subject=${subject}&body=${encodeURIComponent(body)}`;
+    const mailto = `mailto:Ybaratova@gmail.com?subject=${subject}&body=${encodeURIComponent(body)}`;
 
     // Open user's email client with prefilled details
     window.location.href = mailto;
