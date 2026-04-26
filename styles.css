@@ -12,8 +12,8 @@
   --line: rgba(255,255,255,0.08);
   --line-strong: rgba(255,255,255,0.16);
   --text: #f4f1ea;
-  --text-dim: #b9b6ae;
-  --text-muted: #7a7771;
+  --text-dim: #c8c5be;
+  --text-muted: #918e87;
   --accent: #ff4427;          /* ember red */
   --accent-2: #ff7a3d;        /* flame orange */
   --accent-soft: #ff442715;
@@ -28,7 +28,51 @@
 }
 
 * { box-sizing: border-box; }
-html { scroll-behavior: smooth; -webkit-text-size-adjust: 100%; }
+html { scroll-behavior: smooth; -webkit-text-size-adjust: 100%; scroll-padding-top: 90px; }
+
+/* ----------- ACCESSIBILITY ----------- */
+.skip-link {
+  position: absolute;
+  top: -100px;
+  left: 16px;
+  z-index: 100;
+  padding: 12px 20px;
+  background: var(--accent);
+  color: #fff;
+  border-radius: 8px;
+  font-weight: 600;
+  font-size: 0.95rem;
+  text-decoration: none;
+  transition: top .2s var(--ease);
+}
+.skip-link:focus { top: 16px; outline: 3px solid #fff; outline-offset: 2px; }
+.sr-only {
+  position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px;
+  overflow: hidden; clip: rect(0,0,0,0); white-space: nowrap; border: 0;
+}
+
+/* Visible focus for keyboard users only — preserves mouse-click design */
+*:focus { outline: none; }
+*:focus-visible {
+  outline: 3px solid var(--accent-2);
+  outline-offset: 3px;
+  border-radius: 4px;
+}
+.btn:focus-visible {
+  outline: 3px solid #fff;
+  outline-offset: 3px;
+  box-shadow: 0 0 0 6px rgba(255,68,39,0.4);
+}
+.area-card:focus-visible, .card:focus-visible, .industry:focus-visible, .contact-item:focus-visible {
+  outline: 3px solid var(--accent-2);
+  outline-offset: 4px;
+}
+a:focus-visible { text-decoration: underline; }
+.field input:focus-visible, .field select:focus-visible, .field textarea:focus-visible {
+  outline: none;
+  border-color: var(--accent);
+  box-shadow: 0 0 0 4px rgba(255,68,39,0.25), 0 0 0 1px var(--accent);
+}
 body {
   margin: 0;
   font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
@@ -336,7 +380,8 @@ p { margin: 0 0 1em; color: var(--text-dim); }
 .industry p { font-size: 0.88rem; margin: 0; }
 
 /* ----------- WHY ----------- */
-.two-col { display: grid; grid-template-columns: 1.1fr 1fr; gap: 70px; align-items: start; }
+.two-col { display: grid; grid-template-columns: minmax(0, 1.1fr) minmax(0, 420px); gap: 70px; align-items: start; }
+.two-col > * { min-width: 0; }
 .two-col-copy h2 { color: var(--cream); }
 .features { display: grid; gap: 24px; margin-top: 30px; }
 .feature {
@@ -373,7 +418,7 @@ p { margin: 0 0 1em; color: var(--text-dim); }
   overflow: hidden;
   background: #000;
 }
-.inspector-photo img { width: 100%; height: auto; display: block; aspect-ratio: 4/5; object-fit: cover; object-position: center top; }
+.inspector-photo img { width: 100%; height: auto; display: block; aspect-ratio: 4/5; max-height: 480px; object-fit: cover; object-position: center 22%; }
 .inspector-photo figcaption {
   position: absolute; left: 0; right: 0; bottom: 0;
   padding: 36px 26px 22px;
@@ -541,6 +586,38 @@ p { margin: 0 0 1em; color: var(--text-dim); }
 .site-footer ul a:hover { color: var(--accent-2); }
 .footer-bottom { border-top: 1px solid var(--line); padding: 22px 0; }
 .footer-bottom-inner { display: flex; justify-content: space-between; gap: 16px; flex-wrap: wrap; font-size: 0.82rem; color: var(--text-muted); }
+
+/* ----------- TOUCH TARGETS & UX POLISH ----------- */
+/* WCAG 2.2 AAA target size = 44px min */
+.topbar-link, .nav a, .footer-bottom a, .site-footer a, .breadcrumb a, .service-link, .area-card .area-arrow {
+  min-height: 24px;
+  display: inline-flex;
+  align-items: center;
+}
+@media (hover: none) and (pointer: coarse) {
+  .topbar-link, .nav a, .site-footer a {
+    min-height: 44px;
+    padding: 4px 0;
+  }
+  .check-list li, .also-list li {
+    padding-top: 12px; padding-bottom: 12px;
+  }
+}
+
+/* Smooth content reveal even before JS loads */
+.no-js .reveal { opacity: 1; transform: none; }
+
+/* Ensure tap delay is removed on iOS */
+a, button, [role="button"] { touch-action: manipulation; }
+
+/* Selection */
+::selection { background: var(--accent); color: #fff; }
+
+/* Better scrollbar (webkit) */
+::-webkit-scrollbar { width: 12px; height: 12px; }
+::-webkit-scrollbar-track { background: #050506; }
+::-webkit-scrollbar-thumb { background: #2a2a30; border-radius: 6px; border: 3px solid #050506; }
+::-webkit-scrollbar-thumb:hover { background: #3a3a42; }
 
 /* ----------- FLOATING CALL BUTTON ----------- */
 .float-call {
