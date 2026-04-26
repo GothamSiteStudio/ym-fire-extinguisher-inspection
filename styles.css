@@ -366,6 +366,23 @@ p { margin: 0 0 1em; color: var(--text-dim); }
   padding: 36px;
   position: sticky; top: 100px;
 }
+.inspector-photo {
+  margin: -36px -36px 24px;
+  position: relative;
+  border-radius: var(--radius-lg) var(--radius-lg) 0 0;
+  overflow: hidden;
+  background: #000;
+}
+.inspector-photo img { width: 100%; height: auto; display: block; aspect-ratio: 4/5; object-fit: cover; object-position: center top; }
+.inspector-photo figcaption {
+  position: absolute; left: 0; right: 0; bottom: 0;
+  padding: 36px 26px 22px;
+  background: linear-gradient(180deg, transparent 0%, rgba(0,0,0,0.75) 50%, rgba(0,0,0,0.95) 100%);
+  color: #fff;
+}
+.inspector-photo figcaption strong { display: block; font-size: 1.2rem; font-weight: 700; margin-bottom: 4px; color: var(--cream); }
+.inspector-photo figcaption span { font-size: 0.85rem; color: var(--accent-2); font-weight: 500; }
+
 .why-card-inner { padding-bottom: 30px; border-bottom: 1px solid var(--line); }
 .quote-mark { font-family: serif; color: var(--accent); font-size: 4rem; line-height: 0.5; margin-bottom: 14px; }
 .quote { font-size: 1.15rem; color: var(--cream); font-weight: 500; line-height: 1.55; margin-bottom: 22px; font-style: italic; }

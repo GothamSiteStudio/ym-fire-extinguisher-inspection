@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
+  <!-- Home -->
   <url>
     <loc>https://www.ymextinguishers.com/</loc>
     <lastmod>2026-04-26</lastmod>
@@ -8,41 +9,37 @@
     <priority>1.0</priority>
   </url>
 
+  <!-- Service detail pages -->
   <url>
     <loc>https://www.ymextinguishers.com/services/annual-inspection.html</loc>
     <lastmod>2026-04-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.95</priority>
   </url>
-
   <url>
     <loc>https://www.ymextinguishers.com/services/recharge.html</loc>
     <lastmod>2026-04-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
-
   <url>
     <loc>https://www.ymextinguishers.com/services/hydrostatic-testing.html</loc>
     <lastmod>2026-04-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
-
   <url>
     <loc>https://www.ymextinguishers.com/services/new-extinguishers.html</loc>
     <lastmod>2026-04-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
   </url>
-
   <url>
     <loc>https://www.ymextinguishers.com/services/compliance-audits.html</loc>
     <lastmod>2026-04-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
   </url>
-
   <url>
     <loc>https://www.ymextinguishers.com/services/multi-site-management.html</loc>
     <lastmod>2026-04-26</lastmod>
@@ -50,22 +47,111 @@
     <priority>0.8</priority>
   </url>
 
+  <!-- Service areas hub -->
   <url>
-    <loc>https://www.ymextinguishers.com/#industries</loc>
+    <loc>https://www.ymextinguishers.com/areas/</loc>
+    <lastmod>2026-04-26</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.9</priority>
   </url>
 
+  <!-- Nassau County location pages -->
   <url>
-    <loc>https://www.ymextinguishers.com/#faq</loc>
+    <loc>https://www.ymextinguishers.com/areas/hempstead.html</loc>
+    <lastmod>2026-04-26</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://www.ymextinguishers.com/areas/garden-city.html</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://www.ymextinguishers.com/areas/mineola.html</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://www.ymextinguishers.com/areas/hicksville.html</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://www.ymextinguishers.com/areas/levittown.html</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.ymextinguishers.com/areas/freeport.html</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.ymextinguishers.com/areas/long-beach.html</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://www.ymextinguishers.com/areas/glen-cove.html</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.ymextinguishers.com/areas/great-neck.html</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://www.ymextinguishers.com/areas/port-washington.html</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.ymextinguishers.com/areas/westbury.html</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.ymextinguishers.com/areas/massapequa.html</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.ymextinguishers.com/areas/syosset.html</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.ymextinguishers.com/areas/valley-stream.html</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.ymextinguishers.com/areas/rockville-centre.html</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
 
+  <!-- Contact anchor -->
   <url>
     <loc>https://www.ymextinguishers.com/#contact</loc>
     <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.7</priority>
   </url>
 
 </urlset>
