@@ -208,13 +208,13 @@ TEMPLATE = '''<!DOCTYPE html>
 <title>{META_TITLE}</title>
 <meta name="description" content="{META_DESC}" />
 <meta name="keywords" content="{META_KEYWORDS}" />
-<link rel="canonical" href="https://www.ymextinguishers.com/areas/{SLUG}.html" />
+<link rel="canonical" href="https://fireextinguisherinspectionnassaucounty.com/areas/{SLUG}.html" />
 
 <meta property="og:type" content="article" />
 <meta property="og:title" content="{META_TITLE}" />
 <meta property="og:description" content="{META_DESC}" />
-<meta property="og:url" content="https://www.ymextinguishers.com/areas/{SLUG}.html" />
-<meta property="og:image" content="https://www.ymextinguishers.com/assets/og-image.jpg" />
+<meta property="og:url" content="https://fireextinguisherinspectionnassaucounty.com/areas/{SLUG}.html" />
+<meta property="og:image" content="https://fireextinguisherinspectionnassaucounty.com/assets/og-image.jpg" />
 
 <link rel="icon" type="image/png" href="../assets/favicon.png" />
 <meta name="theme-color" content="#0a0a0b" />
@@ -228,10 +228,10 @@ TEMPLATE = '''<!DOCTYPE html>
 {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
-  "@id": "https://www.ymextinguishers.com/areas/{SLUG}.html#business",
+  "@id": "https://fireextinguisherinspectionnassaucounty.com/areas/{SLUG}.html#business",
   "name": "Y&M Fire Extinguisher Inspection & Services - {NAME}",
-  "image": "https://www.ymextinguishers.com/assets/og-image.jpg",
-  "url": "https://www.ymextinguishers.com/areas/{SLUG}.html",
+  "image": "https://fireextinguisherinspectionnassaucounty.com/assets/og-image.jpg",
+  "url": "https://fireextinguisherinspectionnassaucounty.com/areas/{SLUG}.html",
   "telephone": "+1-516-324-8078",
   "email": "info@ymextinguishers.com",
   "priceRange": "$$",
@@ -254,9 +254,9 @@ TEMPLATE = '''<!DOCTYPE html>
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
   "itemListElement": [
-    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.ymextinguishers.com/" },
-    { "@type": "ListItem", "position": 2, "name": "Service Areas", "item": "https://www.ymextinguishers.com/areas/" },
-    { "@type": "ListItem", "position": 3, "name": "{NAME}", "item": "https://www.ymextinguishers.com/areas/{SLUG}.html" }
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://fireextinguisherinspectionnassaucounty.com/" },
+    { "@type": "ListItem", "position": 2, "name": "Service Areas", "item": "https://fireextinguisherinspectionnassaucounty.com/areas/" },
+    { "@type": "ListItem", "position": 3, "name": "{NAME}", "item": "https://fireextinguisherinspectionnassaucounty.com/areas/{SLUG}.html" }
   ]
 }
 </script>
@@ -369,7 +369,7 @@ TEMPLATE = '''<!DOCTYPE html>
     <div class="footer-brand"><img src="../assets/logo.png" alt="Y&M logo" class="brand-mark" /><p>Y&amp;M Fire Extinguisher Inspection &amp; Services. Certified, licensed, and insured. Serving Nassau County and Long Island, New York.</p></div>
     <div><h5>Services</h5><ul><li><a href="../services/annual-inspection.html">Annual inspection &amp; tagging</a></li><li><a href="../services/recharge.html">Recharge &amp; refill</a></li><li><a href="../services/hydrostatic-testing.html">Hydrostatic testing</a></li><li><a href="../services/new-extinguishers.html">New extinguisher supply</a></li><li><a href="../services/compliance-audits.html">Compliance audits</a></li><li><a href="../services/multi-site-management.html">Multi-site management</a></li></ul></div>
     <div><h5>Service areas</h5><ul><li><a href="index.html">All Nassau County areas</a></li><li>Hempstead &middot; Garden City</li><li>Mineola &middot; Hicksville</li><li>Long Beach &middot; Glen Cove</li><li>Great Neck &middot; Port Washington</li></ul></div>
-    <div><h5>Contact</h5><ul><li><a href="tel:+15163248078">516-324-8078</a></li><li><a href="mailto:info@ymextinguishers.com">info@ymextinguishers.com</a></li><li>www.ymextinguishers.com</li></ul></div>
+    <div><h5>Contact</h5><ul><li><a href="tel:+15163248078">516-324-8078</a></li><li><a href="mailto:info@ymextinguishers.com">info@ymextinguishers.com</a></li><li>fireextinguisherinspectionnassaucounty.com</li></ul></div>
   </div>
   <div class="footer-bottom"><div class="container footer-bottom-inner"><span>&copy; <span id="year"></span> Y&amp;M Fire Extinguisher Inspection &amp; Services. All rights reserved.</span><span>Inspector: Mati E. &middot; NFPA 10 compliant</span></div></div>
 </footer>
