@@ -33,11 +33,11 @@ LOCATIONS = [
         "name": "Mineola",
         "zips": "11501",
         "meta_title": "Fire Extinguisher Inspection in Mineola, NY — Courthouse, Hospital & Downtown | Y&M",
-        "meta_desc": "Certified fire extinguisher service in Mineola, NY. Nassau County Courthouse, NYU Langone Long Island Hospital, legal and medical offices. Call 516-324-8078.",
+        "meta_desc": "Certified fire extinguisher service in Mineola, NY. Nassau County Courthouse, NYU Langone's Mineola hospital campus, legal and medical offices. Call 516-324-8078.",
         "meta_keywords": "fire extinguisher inspection Mineola NY, Mineola NFPA 10, Mineola medical office fire safety, Mineola fire extinguisher service",
         "subheading": "Fire extinguisher service for Nassau County&rsquo;s seat &mdash; courthouse, hospital, and downtown.",
-        "intro": "Mineola anchors the Nassau County government district, the NYU Langone Long Island Hospital campus, and a dense legal and medical professional corridor. We keep them all current on NFPA&nbsp;10.",
-        "context": "Mineola is the seat of Nassau County. It hosts the County Courthouse complex, NYU Langone Long Island Hospital (formerly Winthrop), Nassau University Medical Center, and a dense cluster of law firms, medical groups, and professional offices in between. Old Country Road and Mineola Boulevard mix professional services with retail, restaurants, and multi-family residential.",
+        "intro": "Mineola anchors the Nassau County government district, NYU Langone's Mineola hospital campus, and a dense legal and medical professional corridor. We keep them all current on NFPA&nbsp;10.",
+        "context": "Mineola is the seat of Nassau County. It hosts the County Courthouse complex, NYU Langone's Mineola hospital campus, Nassau University Medical Center, and a dense cluster of law firms, medical groups, and professional offices in between. Old Country Road and Mineola Boulevard mix professional services with retail, restaurants, and multi-family residential.",
         "properties": "Mineola work skews professional and medical: law and accounting offices (CO&#8322; where electronics and electrical risk dominate), medical and dental practices (clean-agent priorities), restaurants along Mineola Boulevard and Jericho Turnpike (Class&nbsp;K), and the multi-family residential corridors close to the LIRR station.",
         "nearby": "Garden City, Williston Park, Carle Place, Westbury, Albertson, New Hyde Park",
     },
@@ -50,7 +50,7 @@ LOCATIONS = [
         "meta_keywords": "fire extinguisher inspection Hicksville NY, Hicksville Broadway fire safety, Hicksville restaurant Class K, Hicksville NFPA 10",
         "subheading": "Local extinguisher service across Hicksville&rsquo;s Broadway commercial corridor.",
         "intro": "From the South Broadway commercial district to Hicksville Plaza and Mid-Island Plaza, we keep Hicksville&rsquo;s retail, restaurants, and auto-service properties NFPA&nbsp;10 compliant year after year.",
-        "context": "Hicksville is one of the busiest commercial centers in the Town of Oyster Bay, anchored by the Hicksville LIRR &mdash; one of the busiest commuter stations on Long Island &mdash; and a dense Broadway corridor that runs the length of the hamlet. The South Broadway district has become a recognized Indian, Pakistani, and Bangladeshi commercial cluster, with hundreds of restaurants, grocers, and storefront businesses. Add in Mid-Island Plaza, Old Country Road retail, and a strong auto-service presence, and the inspection workload is varied and constant.",
+        "context": "Hicksville is one of the busiest commercial centers in the Town of Oyster Bay, anchored by the Hicksville LIRR &mdash; one of the busiest commuter stations in Nassau County &mdash; and a dense Broadway corridor that runs the length of the hamlet. The South Broadway district has become a recognized Indian, Pakistani, and Bangladeshi commercial cluster, with hundreds of restaurants, grocers, and storefront businesses. Add in Mid-Island Plaza, Old Country Road retail, and a strong auto-service presence, and the inspection workload is varied and constant.",
         "properties": "Hicksville&rsquo;s commercial mix means heavy work across all extinguisher classes: ABC for the dense storefront retail and grocery, Class&nbsp;K for the major restaurant cluster along South Broadway, CO&#8322; for the offices and electronics retail near the LIRR, and higher-rated extra-hazard units for auto-service shops and small warehouses.",
         "nearby": "Bethpage, Plainview, Jericho, Levittown, Westbury, Old Bethpage",
     },
@@ -76,7 +76,7 @@ LOCATIONS = [
         "meta_keywords": "fire extinguisher inspection Freeport NY, Nautical Mile fire safety, Freeport restaurant Class K, Freeport marina fire extinguisher",
         "subheading": "Restaurant, marina, and Main Street extinguisher service in Freeport.",
         "intro": "From the Nautical Mile on Woodcleft Avenue to Sunrise Highway and Main Street, Freeport&rsquo;s restaurants, marinas, and retail keep us busy year-round.",
-        "context": "Freeport&rsquo;s identity is its waterfront. The Nautical Mile along Woodcleft Avenue is one of Long Island&rsquo;s most recognized restaurant rows &mdash; seafood houses, bars, and marinas lining the canals &mdash; with a peak season that demands all extinguishers be tagged and ready before the warmer months. Beyond the waterfront, Freeport&rsquo;s Main Street and Sunrise Highway corridors carry general retail, restaurants, and a strong multi-family residential surround.",
+        "context": "Freeport&rsquo;s identity is its waterfront. The Nautical Mile along Woodcleft Avenue is one of Nassau County&rsquo;s best-known waterfront restaurant rows &mdash; seafood houses, bars, and marinas lining the canals &mdash; with a peak season that demands all extinguishers be tagged and ready before the warmer months. Beyond the waterfront, Freeport&rsquo;s Main Street and Sunrise Highway corridors carry general retail, restaurants, and a strong multi-family residential surround.",
         "properties": "Freeport&rsquo;s restaurant density drives heavy Class&nbsp;K demand. We service Nautical Mile seafood and bar venues (Class&nbsp;K for fryers, ABC for dining and back-of-house, extra-hazard for fuel storage near marinas), Main Street retail and restaurants, marina-adjacent service businesses, and the multi-family residential buildings that sit between the canals and the village.",
         "nearby": "Baldwin, Merrick, Roosevelt, Bellmore, Oceanside",
     },
@@ -141,7 +141,7 @@ LOCATIONS = [
         "meta_keywords": "fire extinguisher inspection Westbury NY, auto dealership fire extinguisher, Old Country Road NFPA 10, Westbury fire safety",
         "subheading": "Auto Row, Old Country Road, and the Westbury commercial corridor.",
         "intro": "Old Country Road&rsquo;s car-dealership row, Post Avenue retail, NYCB Theatre at Westbury &mdash; we know the inspection requirements that come with every one of these property types.",
-        "context": "Westbury is best known commercially for Old Country Road &mdash; Long Island&rsquo;s auto dealership row &mdash; one of the densest concentrations of new and used car dealerships in the metro region. Beyond Auto Row, Westbury has Post Avenue downtown, the historic NYCB Theatre at Westbury (Westbury Music Fair), the Mall at the Source site, and a strong industrial and warehouse footprint between Brush Hollow Road and the LIRR tracks.",
+        "context": "Westbury is best known commercially for Old Country Road &mdash; Nassau County&rsquo;s auto dealership row &mdash; one of the densest concentrations of new and used car dealerships in the metro region. Beyond Auto Row, Westbury has Post Avenue downtown, the historic NYCB Theatre at Westbury (Westbury Music Fair), the Mall at the Source site, and a strong industrial and warehouse footprint between Brush Hollow Road and the LIRR tracks.",
         "properties": "Auto dealerships have specific NFPA&nbsp;10 obligations that catch a lot of operators off guard &mdash; service-bay coverage by hazard rating, paint-booth area extinguishers, parts-storage protection, and customer-area ABC. We handle all of it. Plus Post Avenue restaurants and retail (Class&nbsp;K and ABC), Brush Hollow industrial and warehouse sites (extra-hazard), and event-venue inspection for theatres and banquet halls.",
         "nearby": "Carle Place, Hicksville, Garden City, Mineola, Salisbury, Old Westbury",
     },
@@ -180,7 +180,7 @@ LOCATIONS = [
         "meta_keywords": "fire extinguisher inspection Valley Stream NY, Green Acres Mall fire safety, Sunrise Highway fire extinguisher, Rockaway Avenue NFPA 10",
         "subheading": "Green Acres Mall, Sunrise Highway retail, and downtown Valley Stream.",
         "intro": "Green Acres Mall, Sunrise Highway, and Rockaway Avenue &mdash; we cover one of the densest retail and restaurant footprints on the South Shore.",
-        "context": "Valley Stream is anchored commercially by Green Acres Mall &mdash; one of the largest enclosed shopping malls on Long Island &mdash; plus a long Sunrise Highway retail corridor and the downtown village along Rockaway Avenue. The commercial scene is heavy on retail, sit-down and quick-service restaurants, multi-tenant strip centers, and the multi-family residential that fills the western half of the village.",
+        "context": "Valley Stream is anchored commercially by Green Acres Mall &mdash; one of the largest enclosed shopping malls in Nassau County &mdash; plus a long Sunrise Highway retail corridor and the downtown village along Rockaway Avenue. The commercial scene is heavy on retail, sit-down and quick-service restaurants, multi-tenant strip centers, and the multi-family residential that fills the western half of the village.",
         "properties": "Green Acres alone generates significant restaurant-tenant work (Class&nbsp;K throughout the food court and full-service tenants). Beyond the mall, we service Sunrise Highway big-box and strip retail, Rockaway Avenue downtown restaurants and retail, professional offices, and the multi-family residential corridors along the LIRR.",
         "nearby": "Lynbrook, Elmont, Hewlett, Malverne, Franklin Square",
     },
@@ -265,7 +265,7 @@ TEMPLATE = '''<!DOCTYPE html>
 <body>
 
 <div class="topbar"><div class="container topbar-inner">
-  <span class="topbar-pill"><span class="dot"></span> Available now &middot; Nassau County, NY</span>
+  <span class="topbar-pill"><span class="dot"></span> Available now &middot; Nassau County, Long Island NY</span>
   <div class="topbar-links">
     <a href="tel:+15163248078" class="topbar-link"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.8 19.8 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.8 19.8 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg> 516-324-8078</a>
     <a href="mailto:info@ymextinguishers.com" class="topbar-link"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg> info@ymextinguishers.com</a>
@@ -288,7 +288,7 @@ TEMPLATE = '''<!DOCTYPE html>
       <span aria-current="page">{NAME}</span>
     </nav>
     <div style="margin-top: 30px;">
-      <span class="eyebrow"><span class="eyebrow-dot"></span> Service Area &middot; Nassau County, NY</span>
+      <span class="eyebrow"><span class="eyebrow-dot"></span> Service Area &middot; Nassau County, Long Island NY</span>
       <h1>Fire extinguisher inspection in {NAME}, NY.</h1>
       <p class="lede">{SUBHEADING}</p>
       <p class="lede" style="font-size:1rem;">{INTRO}</p>
@@ -326,7 +326,7 @@ TEMPLATE = '''<!DOCTYPE html>
       </div>
 
       <h2>Areas we also serve nearby</h2>
-      <p>{NEARBY}, plus all of Nassau County and Long Island.</p>
+      <p>{NEARBY}, plus the rest of Nassau County.</p>
 
       <h2>Schedule {NAME} extinguisher service</h2>
       <p>Call <a href="tel:+15163248078" style="color:var(--accent-2); font-weight:600;">516-324-8078</a> or <a href="../index.html#contact" style="color:var(--accent-2); font-weight:600;">request a quote online</a>. Most {NAME} jobs are scheduled within the same week.</p>
@@ -366,7 +366,7 @@ TEMPLATE = '''<!DOCTYPE html>
 
 <footer class="site-footer">
   <div class="container footer-grid">
-    <div class="footer-brand"><img src="../assets/logo.png" alt="Y&M logo" class="brand-mark" /><p>Y&amp;M Fire Extinguisher Inspection &amp; Services. Certified, licensed, and insured. Serving Nassau County and Long Island, New York.</p></div>
+    <div class="footer-brand"><img src="../assets/logo.png" alt="Y&M logo" class="brand-mark" /><p>Y&amp;M Fire Extinguisher Inspection &amp; Services. Certified, licensed, and insured. Serving Nassau County, Long Island NY.</p></div>
     <div><h5>Services</h5><ul><li><a href="../services/annual-inspection.html">Annual inspection &amp; tagging</a></li><li><a href="../services/recharge.html">Recharge &amp; refill</a></li><li><a href="../services/hydrostatic-testing.html">Hydrostatic testing</a></li><li><a href="../services/new-extinguishers.html">New extinguisher supply</a></li><li><a href="../services/compliance-audits.html">Compliance audits</a></li><li><a href="../services/multi-site-management.html">Multi-site management</a></li></ul></div>
     <div><h5>Service areas</h5><ul><li><a href="index.html">All Nassau County areas</a></li><li>Hempstead &middot; Garden City</li><li>Mineola &middot; Hicksville</li><li>Long Beach &middot; Glen Cove</li><li>Great Neck &middot; Port Washington</li></ul></div>
     <div><h5>Contact</h5><ul><li><a href="tel:+15163248078">516-324-8078</a></li><li><a href="mailto:info@ymextinguishers.com">info@ymextinguishers.com</a></li><li>fireextinguisherinspectionnassaucounty.com</li></ul></div>
