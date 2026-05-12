@@ -7,7 +7,7 @@ LOCATIONS = [
         "name": "Hempstead",
         "zips": "11550, 11551, 11553, 11554",
         "meta_title": "Fire Extinguisher Inspection in Hempstead, NY — NFPA 10 Certified | Y&M",
-        "meta_desc": "Certified fire extinguisher inspection, recharge, and service in Hempstead, NY. Restaurants, multi-family, retail, and houses of worship. Call 516-324-8078.",
+        "meta_desc": "Certified fire extinguisher inspection, recharge, and service in Hempstead, NY. Restaurants, multi-family, retail, and houses of worship. Call 516-447-3033.",
         "meta_keywords": "fire extinguisher inspection Hempstead NY, fire extinguisher service Hempstead, NFPA 10 Hempstead, Hempstead fire safety",
         "subheading": "Local extinguisher service for the largest village in Nassau County.",
         "intro": "From Fulton Avenue to Hempstead Turnpike, we keep Hempstead&rsquo;s restaurants, multi-family buildings, retail storefronts, and houses of worship NFPA&nbsp;10 compliant &mdash; with certified inspections, dated tags, and a real local point of contact.",
@@ -20,7 +20,7 @@ LOCATIONS = [
         "name": "Garden City",
         "zips": "11530, 11531",
         "meta_title": "Fire Extinguisher Inspection in Garden City, NY — Roosevelt Field Area | Y&M",
-        "meta_desc": "Certified fire extinguisher service in Garden City, NY. Roosevelt Field, Franklin Avenue, hotels, and professional offices. NFPA 10 compliant. Call 516-324-8078.",
+        "meta_desc": "Certified fire extinguisher service in Garden City, NY. Roosevelt Field, Franklin Avenue, hotels, and professional offices. NFPA 10 compliant. Call 516-447-3033.",
         "meta_keywords": "fire extinguisher inspection Garden City NY, Roosevelt Field fire extinguisher, Garden City NFPA 10, Franklin Avenue fire safety",
         "subheading": "Upscale commercial and retail extinguisher service in Garden City.",
         "intro": "Roosevelt Field, Franklin Avenue, the Garden City Hotel, and a dense corridor of professional offices &mdash; we keep Garden City&rsquo;s commercial properties NFPA&nbsp;10 compliant with certified annual inspections and clear documentation.",
@@ -33,7 +33,7 @@ LOCATIONS = [
         "name": "Mineola",
         "zips": "11501",
         "meta_title": "Fire Extinguisher Inspection in Mineola, NY — Courthouse, Hospital & Downtown | Y&M",
-        "meta_desc": "Certified fire extinguisher service in Mineola, NY. Nassau County Courthouse, NYU Langone's Mineola hospital campus, legal and medical offices. Call 516-324-8078.",
+        "meta_desc": "Certified fire extinguisher service in Mineola, NY. Nassau County Courthouse, NYU Langone's Mineola hospital campus, legal and medical offices. Call 516-447-3033.",
         "meta_keywords": "fire extinguisher inspection Mineola NY, Mineola NFPA 10, Mineola medical office fire safety, Mineola fire extinguisher service",
         "subheading": "Fire extinguisher service for Nassau County&rsquo;s seat &mdash; courthouse, hospital, and downtown.",
         "intro": "Mineola anchors the Nassau County government district, NYU Langone's Mineola hospital campus, and a dense legal and medical professional corridor. We keep them all current on NFPA&nbsp;10.",
@@ -46,7 +46,7 @@ LOCATIONS = [
         "name": "Hicksville",
         "zips": "11801, 11802",
         "meta_title": "Fire Extinguisher Inspection in Hicksville, NY — Broadway Commercial Corridor | Y&M",
-        "meta_desc": "Certified fire extinguisher service in Hicksville, NY. South Broadway restaurants, retail, and auto-service. NFPA 10 compliant. Call 516-324-8078.",
+        "meta_desc": "Certified fire extinguisher service in Hicksville, NY. South Broadway restaurants, retail, and auto-service. NFPA 10 compliant. Call 516-447-3033.",
         "meta_keywords": "fire extinguisher inspection Hicksville NY, Hicksville Broadway fire safety, Hicksville restaurant Class K, Hicksville NFPA 10",
         "subheading": "Local extinguisher service across Hicksville&rsquo;s Broadway commercial corridor.",
         "intro": "From the South Broadway commercial district to Hicksville Plaza and Mid-Island Plaza, we keep Hicksville&rsquo;s retail, restaurants, and auto-service properties NFPA&nbsp;10 compliant year after year.",
@@ -59,7 +59,7 @@ LOCATIONS = [
         "name": "Levittown",
         "zips": "11756",
         "meta_title": "Fire Extinguisher Inspection in Levittown, NY — Local Service | Y&M",
-        "meta_desc": "Certified fire extinguisher service for Levittown small businesses, restaurants, gas stations, and houses of worship. NFPA 10 compliant. Call 516-324-8078.",
+        "meta_desc": "Certified fire extinguisher service for Levittown small businesses, restaurants, gas stations, and houses of worship. NFPA 10 compliant. Call 516-447-3033.",
         "meta_keywords": "fire extinguisher inspection Levittown NY, Levittown NFPA 10, Hempstead Turnpike fire safety, Levittown fire extinguisher service",
         "subheading": "Local extinguisher service for Levittown&rsquo;s small businesses and houses of worship.",
         "intro": "From Hempstead Turnpike to Wantagh Avenue, we keep Levittown&rsquo;s restaurants, storefronts, gas stations, and community spaces compliant &mdash; without the big-vendor markup.",
@@ -72,7 +72,7 @@ LOCATIONS = [
         "name": "Freeport",
         "zips": "11520, 11521",
         "meta_title": "Fire Extinguisher Inspection in Freeport, NY — Nautical Mile & Main Street | Y&M",
-        "meta_desc": "Certified fire extinguisher service in Freeport, NY. Nautical Mile restaurants, marinas, and Main Street retail. Class K specialists. Call 516-324-8078.",
+        "meta_desc": "Certified fire extinguisher service in Freeport, NY. Nautical Mile restaurants, marinas, and Main Street retail. Class K specialists. Call 516-447-3033.",
         "meta_keywords": "fire extinguisher inspection Freeport NY, Nautical Mile fire safety, Freeport restaurant Class K, Freeport marina fire extinguisher",
         "subheading": "Restaurant, marina, and Main Street extinguisher service in Freeport.",
         "intro": "From the Nautical Mile on Woodcleft Avenue to Sunrise Highway and Main Street, Freeport&rsquo;s restaurants, marinas, and retail keep us busy year-round.",
@@ -85,7 +85,7 @@ LOCATIONS = [
         "name": "Long Beach",
         "zips": "11561",
         "meta_title": "Fire Extinguisher Inspection in Long Beach, NY — Boardwalk & Park Avenue | Y&M",
-        "meta_desc": "Certified fire extinguisher service in Long Beach, NY. Boardwalk hotels, restaurants on West Beech & Park Avenue, multi-family condos. Call 516-324-8078.",
+        "meta_desc": "Certified fire extinguisher service in Long Beach, NY. Boardwalk hotels, restaurants on West Beech & Park Avenue, multi-family condos. Call 516-447-3033.",
         "meta_keywords": "fire extinguisher inspection Long Beach NY, Long Beach hotel fire safety, Long Beach restaurant Class K, boardwalk fire extinguisher",
         "subheading": "Boardwalk, beachfront, and Park Avenue extinguisher service in Long Beach.",
         "intro": "Hotels, beachfront restaurants, multi-family condos, and the businesses along West Beech and Park Avenue &mdash; we keep Long Beach NFPA&nbsp;10 compliant in a salt-air environment that punishes equipment.",
@@ -98,7 +98,7 @@ LOCATIONS = [
         "name": "Glen Cove",
         "zips": "11542",
         "meta_title": "Fire Extinguisher Inspection in Glen Cove, NY — Downtown & Hospital | Y&M",
-        "meta_desc": "Certified fire extinguisher service in Glen Cove, NY. Downtown, Glen Cove Hospital, waterfront industrial. NFPA 10 compliant. Call 516-324-8078.",
+        "meta_desc": "Certified fire extinguisher service in Glen Cove, NY. Downtown, Glen Cove Hospital, waterfront industrial. NFPA 10 compliant. Call 516-447-3033.",
         "meta_keywords": "fire extinguisher inspection Glen Cove NY, Glen Cove hospital fire safety, Glen Cove NFPA 10, Glen Cove fire extinguisher service",
         "subheading": "Downtown, hospital, and waterfront extinguisher service for Glen Cove.",
         "intro": "Glen Cove is Nassau County&rsquo;s smallest city &mdash; but its mix of downtown, healthcare, and industrial waterfront keeps the inspection schedule full.",
@@ -111,7 +111,7 @@ LOCATIONS = [
         "name": "Great Neck",
         "zips": "11020, 11021, 11022, 11023, 11024, 11026",
         "meta_title": "Fire Extinguisher Inspection in Great Neck, NY — Middle Neck Road | Y&M",
-        "meta_desc": "Certified fire extinguisher service across the Great Neck peninsula. Middle Neck Road restaurants, retail, professional offices. NFPA 10 compliant. Call 516-324-8078.",
+        "meta_desc": "Certified fire extinguisher service across the Great Neck peninsula. Middle Neck Road restaurants, retail, professional offices. NFPA 10 compliant. Call 516-447-3033.",
         "meta_keywords": "fire extinguisher inspection Great Neck NY, Great Neck restaurant fire safety, Middle Neck Road fire extinguisher, Great Neck NFPA 10",
         "subheading": "Middle Neck Road, downtown Great Neck, and the peninsula&rsquo;s many small businesses.",
         "intro": "From Middle Neck Road&rsquo;s storefronts to the office buildings near the Great Neck LIRR, we keep the peninsula&rsquo;s restaurants, retail, and professional offices NFPA&nbsp;10 compliant.",
@@ -124,7 +124,7 @@ LOCATIONS = [
         "name": "Port Washington",
         "zips": "11050, 11051, 11052, 11053, 11054",
         "meta_title": "Fire Extinguisher Inspection in Port Washington, NY — Main Street & Harbor | Y&M",
-        "meta_desc": "Certified fire extinguisher service in Port Washington, NY. Main Street restaurants, harbor marinas, professional offices. NFPA 10 compliant. Call 516-324-8078.",
+        "meta_desc": "Certified fire extinguisher service in Port Washington, NY. Main Street restaurants, harbor marinas, professional offices. NFPA 10 compliant. Call 516-447-3033.",
         "meta_keywords": "fire extinguisher inspection Port Washington NY, Port Washington Main Street fire safety, Port Washington marina fire extinguisher",
         "subheading": "Main Street, harbor, and marina-area extinguisher service in Port Washington.",
         "intro": "From downtown Main Street&rsquo;s restaurant row to Manhasset Bay&rsquo;s marinas, we keep Port Washington&rsquo;s commercial properties NFPA&nbsp;10 compliant.",
@@ -137,7 +137,7 @@ LOCATIONS = [
         "name": "Westbury",
         "zips": "11590, 11592, 11593, 11595",
         "meta_title": "Fire Extinguisher Inspection in Westbury, NY — Auto Row & Old Country Road | Y&M",
-        "meta_desc": "Certified fire extinguisher service in Westbury, NY. Auto dealerships, Old Country Road, Post Avenue retail, NYCB Theatre. NFPA 10 compliant. Call 516-324-8078.",
+        "meta_desc": "Certified fire extinguisher service in Westbury, NY. Auto dealerships, Old Country Road, Post Avenue retail, NYCB Theatre. NFPA 10 compliant. Call 516-447-3033.",
         "meta_keywords": "fire extinguisher inspection Westbury NY, auto dealership fire extinguisher, Old Country Road NFPA 10, Westbury fire safety",
         "subheading": "Auto Row, Old Country Road, and the Westbury commercial corridor.",
         "intro": "Old Country Road&rsquo;s car-dealership row, Post Avenue retail, NYCB Theatre at Westbury &mdash; we know the inspection requirements that come with every one of these property types.",
@@ -150,7 +150,7 @@ LOCATIONS = [
         "name": "Massapequa",
         "zips": "11758, 11762",
         "meta_title": "Fire Extinguisher Inspection in Massapequa, NY — Sunrise Highway | Y&M",
-        "meta_desc": "Certified fire extinguisher service in Massapequa, NY. Sunrise Highway retail, Park Boulevard restaurants, gas stations, auto-service. Call 516-324-8078.",
+        "meta_desc": "Certified fire extinguisher service in Massapequa, NY. Sunrise Highway retail, Park Boulevard restaurants, gas stations, auto-service. Call 516-447-3033.",
         "meta_keywords": "fire extinguisher inspection Massapequa NY, Sunrise Highway fire safety, Massapequa restaurant Class K, Park Boulevard fire extinguisher",
         "subheading": "Sunrise Highway, Park Boulevard, and South Shore Massapequa commercial service.",
         "intro": "From the Sunrise Highway commercial corridor to Park Boulevard&rsquo;s restaurants, we keep Massapequa&rsquo;s retail, dining, and offices NFPA&nbsp;10 compliant.",
@@ -163,7 +163,7 @@ LOCATIONS = [
         "name": "Syosset",
         "zips": "11791, 11773",
         "meta_title": "Fire Extinguisher Inspection in Syosset, NY — Jericho Turnpike & Downtown | Y&M",
-        "meta_desc": "Certified fire extinguisher service in Syosset, NY. Jericho Turnpike retail, downtown restaurants, medical offices, Syosset Hospital. Call 516-324-8078.",
+        "meta_desc": "Certified fire extinguisher service in Syosset, NY. Jericho Turnpike retail, downtown restaurants, medical offices, Syosset Hospital. Call 516-447-3033.",
         "meta_keywords": "fire extinguisher inspection Syosset NY, Jericho Turnpike fire safety, Syosset medical office fire extinguisher, Syosset NFPA 10",
         "subheading": "Jericho Turnpike, downtown Syosset, and the North Shore commercial corridor.",
         "intro": "From the Jericho Turnpike retail belt to downtown Syosset&rsquo;s restaurants and offices, we cover the North Shore&rsquo;s busy commercial center.",
@@ -176,7 +176,7 @@ LOCATIONS = [
         "name": "Valley Stream",
         "zips": "11580, 11581, 11582",
         "meta_title": "Fire Extinguisher Inspection in Valley Stream, NY — Green Acres Mall | Y&M",
-        "meta_desc": "Certified fire extinguisher service in Valley Stream, NY. Green Acres Mall, Sunrise Highway retail, Rockaway Avenue restaurants. NFPA 10 compliant. Call 516-324-8078.",
+        "meta_desc": "Certified fire extinguisher service in Valley Stream, NY. Green Acres Mall, Sunrise Highway retail, Rockaway Avenue restaurants. NFPA 10 compliant. Call 516-447-3033.",
         "meta_keywords": "fire extinguisher inspection Valley Stream NY, Green Acres Mall fire safety, Sunrise Highway fire extinguisher, Rockaway Avenue NFPA 10",
         "subheading": "Green Acres Mall, Sunrise Highway retail, and downtown Valley Stream.",
         "intro": "Green Acres Mall, Sunrise Highway, and Rockaway Avenue &mdash; we cover one of the densest retail and restaurant footprints on the South Shore.",
@@ -189,7 +189,7 @@ LOCATIONS = [
         "name": "Rockville Centre",
         "zips": "11570, 11571",
         "meta_title": "Fire Extinguisher Inspection in Rockville Centre, NY — Mercy Hospital & Front Street | Y&M",
-        "meta_desc": "Certified fire extinguisher service in Rockville Centre, NY. Front Street downtown, Mount Sinai South Nassau, medical offices, restaurants. Call 516-324-8078.",
+        "meta_desc": "Certified fire extinguisher service in Rockville Centre, NY. Front Street downtown, Mount Sinai South Nassau, medical offices, restaurants. Call 516-447-3033.",
         "meta_keywords": "fire extinguisher inspection Rockville Centre NY, RVC fire safety, Mercy Hospital fire extinguisher, Front Street NFPA 10",
         "subheading": "Downtown RVC, Mercy Hospital, and the Front Street commercial corridor.",
         "intro": "From Front Street&rsquo;s downtown restaurants to Mount Sinai South Nassau and the surrounding medical complex, we keep Rockville Centre&rsquo;s commercial and healthcare properties NFPA&nbsp;10 compliant.",
@@ -232,7 +232,7 @@ TEMPLATE = '''<!DOCTYPE html>
   "name": "Y&M Fire Extinguisher Inspection & Services - {NAME}",
   "image": "https://fireextinguisherinspectionnassaucounty.com/assets/og-image.jpg",
   "url": "https://fireextinguisherinspectionnassaucounty.com/areas/{SLUG}.html",
-  "telephone": "+1-516-324-8078",
+  "telephone": "+1-516-447-3033",
   "email": "info@ymextinguishers.com",
   "priceRange": "$$",
   "description": "{META_DESC}",
@@ -267,7 +267,7 @@ TEMPLATE = '''<!DOCTYPE html>
 <div class="topbar"><div class="container topbar-inner">
   <span class="topbar-pill"><span class="dot"></span> Available now &middot; Nassau County, Long Island NY</span>
   <div class="topbar-links">
-    <a href="tel:+15163248078" class="topbar-link"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.8 19.8 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.8 19.8 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg> 516-324-8078</a>
+    <a href="tel:+15164473033" class="topbar-link"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.8 19.8 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.8 19.8 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg> 516-447-3033</a>
     <a href="mailto:info@ymextinguishers.com" class="topbar-link"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg> info@ymextinguishers.com</a>
   </div>
 </div></div>
@@ -329,14 +329,14 @@ TEMPLATE = '''<!DOCTYPE html>
       <p>{NEARBY}, plus the rest of Nassau County.</p>
 
       <h2>Schedule {NAME} extinguisher service</h2>
-      <p>Call <a href="tel:+15163248078" style="color:var(--accent-2); font-weight:600;">516-324-8078</a> or <a href="../index.html#contact" style="color:var(--accent-2); font-weight:600;">request a quote online</a>. Most {NAME} jobs are scheduled within the same week.</p>
+      <p>Call <a href="tel:+15164473033" style="color:var(--accent-2); font-weight:600;">516-447-3033</a> or <a href="../index.html#contact" style="color:var(--accent-2); font-weight:600;">request a quote online</a>. Most {NAME} jobs are scheduled within the same week.</p>
     </article>
 
     <aside class="svc-aside">
       <div class="quick-call">
         <strong>Local to {NAME}?</strong>
         <span>Call directly for fastest scheduling.</span>
-        <a href="tel:+15163248078">516-324-8078</a>
+        <a href="tel:+15164473033">516-447-3033</a>
       </div>
       <div class="card">
         <h4>ZIP codes we serve</h4>
@@ -361,7 +361,7 @@ TEMPLATE = '''<!DOCTYPE html>
 
 <section class="cta-band"><div class="container cta-inner">
   <div><h3>Serving {NAME} businesses since day one.</h3><p>Certified inspections &middot; Licensed &amp; insured &middot; Local Nassau County service.</p></div>
-  <a href="tel:+15163248078" class="btn btn-primary btn-lg">Call 516-324-8078</a>
+  <a href="tel:+15164473033" class="btn btn-primary btn-lg">Call 516-447-3033</a>
 </div></section>
 
 <footer class="site-footer">
@@ -369,12 +369,12 @@ TEMPLATE = '''<!DOCTYPE html>
     <div class="footer-brand"><img src="../assets/logo.png" alt="Y&M logo" class="brand-mark" /><p>Y&amp;M Fire Extinguisher Inspection &amp; Services. Certified, licensed, and insured. Serving Nassau County, Long Island NY.</p></div>
     <div><h5>Services</h5><ul><li><a href="../services/annual-inspection.html">Annual inspection &amp; tagging</a></li><li><a href="../services/recharge.html">Recharge &amp; refill</a></li><li><a href="../services/hydrostatic-testing.html">Hydrostatic testing</a></li><li><a href="../services/new-extinguishers.html">New extinguisher supply</a></li><li><a href="../services/compliance-audits.html">Compliance audits</a></li><li><a href="../services/multi-site-management.html">Multi-site management</a></li></ul></div>
     <div><h5>Service areas</h5><ul><li><a href="index.html">All Nassau County areas</a></li><li>Hempstead &middot; Garden City</li><li>Mineola &middot; Hicksville</li><li>Long Beach &middot; Glen Cove</li><li>Great Neck &middot; Port Washington</li></ul></div>
-    <div><h5>Contact</h5><ul><li><a href="tel:+15163248078">516-324-8078</a></li><li><a href="mailto:info@ymextinguishers.com">info@ymextinguishers.com</a></li><li>fireextinguisherinspectionnassaucounty.com</li></ul></div>
+    <div><h5>Contact</h5><ul><li><a href="tel:+15164473033">516-447-3033</a></li><li><a href="mailto:info@ymextinguishers.com">info@ymextinguishers.com</a></li><li>fireextinguisherinspectionnassaucounty.com</li></ul></div>
   </div>
   <div class="footer-bottom"><div class="container footer-bottom-inner"><span>&copy; <span id="year"></span> Y&amp;M Fire Extinguisher Inspection &amp; Services. All rights reserved.</span><span>Inspector: Mati E. &middot; NFPA 10 compliant</span></div></div>
 </footer>
 
-<a href="tel:+15163248078" class="float-call" aria-label="Call Y&M now"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.8 19.8 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.8 19.8 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg></a>
+<a href="tel:+15164473033" class="float-call" aria-label="Call Y&M now"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.8 19.8 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.8 19.8 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg></a>
 
 <script>
   document.getElementById('year').textContent = new Date().getFullYear();
